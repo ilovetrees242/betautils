@@ -1,0 +1,1 @@
+void listFactors(int Num);
